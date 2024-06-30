@@ -43,3 +43,99 @@ Answer the following questions based on your understanding of the installation a
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
 
+ANSWERS
+
+Installation of VS Code
+
+1. Go to the Visual Studio Code website and click the download button.
+2. Choose the Windows 11 version and download the installer (User Installer or System Installer).
+3. Run the installer and follow the prompts to install VS Code.
+4. Once installed, launch VS Code from the Start menu or desktop shortcut.
+
+First-time Setup
+
+1. Initial configurations:
+    - Choose the theme and font size.
+    - Set up the editor layout (e.g., split screen).
+    - Enable or disable telemetry.
+2. Important settings:
+    - Settings Sync (sync settings across devices).
+    - Extensions (install essential extensions like Git, Debugger, and Code Runner).
+3. Essential extensions:
+    - Git
+    - Debugger for Chrome or Node.js
+    - Code Runner
+    - Live Server
+    - Prettier
+
+User Interface Overview
+
+1. Activity Bar: Vertical bar with icons for navigation (e.g., Explorer, Search, Debug).
+2. Side Bar: Vertical panel with various views (e.g., File Explorer, Outline).
+3. Editor Group: Main area where code is edited.
+4. Status Bar: Bottom bar with information (e.g., file type, line numbers).
+
+Command Palette
+
+1. Access: Press Ctrl + Shift + P (or Cmd + Shift + P on Mac).
+2. Examples:
+    - Run code
+    - Debug code
+    - Open files or folders
+    - Change settings
+
+Extensions in VS Code
+
+1. Find: Browse the Extensions marketplace or search within VS Code.
+2. Install: Click the Install button.
+3. Manage: Enable, disable, or uninstall extensions.
+4. Essential extensions for web development:
+    - Live Server
+    - Prettier
+    - ESLint
+    - Debugger for Chrome
+
+Integrated Terminal
+
+1. Open: Press Ctrl + Shift + (or Cmd + Shift + on Mac).
+2. Advantages:
+    - Integrated with VS Code
+    - Supports multiple terminals
+    - Easy navigation
+
+File and Folder Management
+
+1. Create: Right-click in the Explorer and select New File or Folder.
+2. Open: Click on a file or folder in the Explorer.
+3. Navigate:
+    - Use the Explorer
+    - Press Ctrl + Tab to switch between files
+
+Settings and Preferences
+
+1. Find: Press Ctrl + Shift + P and search for "settings".
+2. Customize:
+    - Theme
+    - Font size
+    - Keybindings
+    - Extensions
+
+Debugging in VS Code
+
+1. Set up:
+    - Create a launch configuration
+    - Choose a debugger extension
+2. Start debugging:
+    - Press F5 or click the Debug icon
+3. Key debugging features:
+    - Breakpoints
+    - Step-through code
+    - Variable inspection
+
+Using Source Control
+
+1. Initialize a repository: Run git init in the terminal.
+2. Make commits: Stage and commit changes using the Git extension.
+3. Push changes: Run git push to push changes to GitHub.
+
+
